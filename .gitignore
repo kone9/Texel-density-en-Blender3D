@@ -1,0 +1,9 @@
+#blender File
+*.pyc
+*.blend[1-9]
+__pycache__
+/dist/
+
+# Visual Studio 2015 user specific files
+.vs/
+.vscode/
