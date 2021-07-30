@@ -6,4 +6,8 @@
 
 # Textura exportada de Gimp 2048 x 2048
 
-![Texel density Gimp](https://github.com/kone9/Texel-density-en-Blender3D/blob/main/Texel%20density%20GImp.jpg)
+![Texel density vista en Gimp](https://github.com/kone9/Texel-density-en-Blender3D/blob/main/Texel%20density%20GImp.jpg)
+
+![Texel density Textura](https://github.com/kone9/Texel-density-en-Blender3D/blob/main/TexelDensity%202048%20X%202048.jpg)
+
+
